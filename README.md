@@ -59,4 +59,4 @@ Each folder contains code samples, exercises, and personal notes documenting my 
 
 - **Clone the Repository:**  
   ```bash
-  git clone https://github.com/yourusername/Python-refresh.git
+  git clone https://github.com/jozsefKecskesi/Python-refresh.git
