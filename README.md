@@ -60,3 +60,13 @@ Each folder contains code samples, exercises, and personal notes documenting my 
 - **Clone the Repository:**  
   ```bash
   git clone https://github.com/jozsefKecskesi/Python-refresh.git
+
+## Resources
+
+- **Jupyter Notebooks**  
+- **Google Colabs**  
+- **GitHub Workspaces**  
+
+## License
+
+**Free to use for any purpose, including commercial. Use it under your own responsibility, but freely.**  
